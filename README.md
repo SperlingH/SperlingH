@@ -6,6 +6,7 @@
 - Python
 - git
 - linux
+  
 [![Boot.dev Learn Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/528fd7ed-89a9-4104-a492-63449264ad1f.jpeg?v=1792313095)](https://www.boot.dev/certificates/528fd7ed-89a9-4104-a492-63449264ad1f)
  
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a93666bb-ff05-4262-a9a1-4e3560cfc639.jpeg?v=1792775112)](https://www.boot.dev/certificates/a93666bb-ff05-4262-a9a1-4e3560cfc639)
