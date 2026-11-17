@@ -17,3 +17,4 @@
 
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/47f52733-e749-4054-b031-f3d8702c5b2f.jpeg?v=1793054353)](https://www.boot.dev/certificates/47f52733-e749-4054-b031-f3d8702c5b2f)
 
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://api.boot.dev/v1/static/certificate/9101621d-ea33-4b80-bf74-1cefb85d1f3a)](https://www.boot.dev/certificates/9101621d-ea33-4b80-bf74-1cefb85d1f3a)
